@@ -1,0 +1,15 @@
+{
+    "name": "servidorweb",
+    "version": "1.0.0",
+    "description": "el paquete mas chingon de la historia",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "author": "Alejandro Velez",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "express": "^4.16.3"
+    }
+}
